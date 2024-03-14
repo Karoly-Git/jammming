@@ -1,0 +1,33 @@
+[
+  { "id": 1, "name": "Shape of You", "artist": "Ed Sheeran", "album": "÷ (Divide)" },
+  { "id": 6, "name": "Thinking Out Loud", "artist": "Ed Sheeran", "album": "x (Multiply)" },
+  { "id": 10, "name": "Perfect", "artist": "Ed Sheeran", "album": "÷ (Divide)" },
+
+  { "id": 2, "name": "Despacito", "artist": "Luis Fonsi ft. Daddy Yankee", "album": "Vida" },
+  { "id": 11, "name": "Échame la Culpa", "artist": "Luis Fonsi", "album": "Vida" },
+  { "id": 12, "name": "Imposible", "artist": "Luis Fonsi", "album": "Vida" },
+
+  { "id": 3, "name": "Uptown Funk", "artist": "Mark Ronson ft. Bruno Mars", "album": "Uptown Special" },
+  { "id": 13, "name": "24K Magic", "artist": "Bruno Mars", "album": "24K Magic" },
+  { "id": 14, "name": "That's What I Like", "artist": "Bruno Mars", "album": "24K Magic" },
+
+  { "id": 4, "name": "Closer", "artist": "The Chainsmokers ft. Halsey", "album": "Collage" },
+  { "id": 15, "name": "Paris", "artist": "The Chainsmokers", "album": "Memories...Do Not Open" },
+  { "id": 16, "name": "Don't Let Me Down", "artist": "The Chainsmokers ft. Daya", "album": "Collage" },
+
+  { "id": 5, "name": "See You Again", "artist": "Wiz Khalifa ft. Charlie Puth", "album": "Furious 7: Original Motion Picture Soundtrack" },
+  { "id": 17, "name": "Black and Yellow", "artist": "Wiz Khalifa", "album": "Rolling Papers" },
+  { "id": 18, "name": "Young, Wild & Free", "artist": "Wiz Khalifa & Snoop Dogg ft. Bruno Mars", "album": "Mac & Devin Go to High School" },
+
+  { "id": 7, "name": "Sorry", "artist": "Justin Bieber", "album": "Purpose" },
+  { "id": 19, "name": "Love Yourself", "artist": "Justin Bieber", "album": "Purpose" },
+  { "id": 20, "name": "What Do You Mean?", "artist": "Justin Bieber", "album": "Purpose" },
+
+  { "id": 8, "name": "Havana", "artist": "Camila Cabello ft. Young Thug", "album": "Camila" },
+  { "id": 21, "name": "Señorita", "artist": "Shawn Mendes & Camila Cabello", "album": "Romance" },
+  { "id": 22, "name": "Never Be the Same", "artist": "Camila Cabello", "album": "Camila" },
+
+  { "id": 9, "name": "Hello", "artist": "Adele", "album": "25" },
+  { "id": 23, "name": "Rolling in the Deep", "artist": "Adele", "album": "21" },
+  { "id": 24, "name": "Set Fire to the Rain", "artist": "Adele", "album": "21" }
+]
